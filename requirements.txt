@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+pandas-profiling
+seaborn
+matplotlib
+plotly
+folium

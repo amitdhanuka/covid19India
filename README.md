@@ -1,4 +1,5 @@
 ![CI](https://github.com/pratikbarjatya/covid19India/workflows/CI/badge.svg?branch=master)
+[![Treebeard notebook status](https://api.treebeard.io/7096fb4ff3/covid19India/master/buildbadge)](https://treebeard.io/admin/7096fb4ff3/covid19India/master "Latest notebook run")
 
 # covid19India
 EDA for Covid-19 India
@@ -15,3 +16,8 @@ Individual level data comes from [covid19india API](https://api.covid19india.org
 Thanks to Indian [Ministry of Health & Family Welfare](https://www.mohfw.gov.in/) for making the data available to general public.
 
 Thanks to [covid19india.org](https://covid19india.org) for making the individual level details and testing details available to general public.
+
+
+### Connect with us: - 
+**Telegram** - https://t.me/joinchat/QIP11xtVtLQOtxhRpBpmHw
+
